@@ -1,1 +1,15 @@
-INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '11343712767', '1000', '1994-07-20T10:30:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado da Silva', '11343712767', '1000', '1994-07-20T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Enrolado Albuquerque', '10237919001', '1000', '1986-07-20T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Gambiarra Rodrigues', '85313893050', '1000', '1990-07-20T10:30:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '04205265018', '1000', '1974-10-24T10:30:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '06789432060', '1000', '1984-12-04T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '34236097028', '1000', '1969-01-01T10:30:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '56865621050', '1000', '2004-06-17T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '76408392032', '1000', '1981-08-14T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '50882472062', '1000', '1969-07-20T10:30:00Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '38825378092', '1000', '1973-01-18T10:30:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '02789660042', '1000', '1977-02-23T10:30:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '96465715066', '1000', '1991-12-03T10:30:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '77778493012', '1000', '2008-11-12T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '01794316094', '1000', '2005-06-09T10:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bugado', '35927158013', '1000', '1954-07-21T10:30:00Z', 3);
